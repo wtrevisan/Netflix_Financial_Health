@@ -1,9 +1,9 @@
 ***
-## `Projeto:` <font color='black'>Análise da Saúde Financeira da Empresa Netflix</font>
+## `Projeto:` Análise da Saúde Financeira da Empresa Netflix
 
-## `Data:` <font color='black'>novembro, 2020</font>
+## `Data:` novembro, 2020
 
-## `Cientista de Dados:` <font color='black'>Walter Trevisan</font>
+## `Cientista de Dados:` Walter Trevisan
 ***
 
 ## `01-` Perfil da Empresa:
