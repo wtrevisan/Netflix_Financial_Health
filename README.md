@@ -1,5 +1,6 @@
 ***
-# `Projeto:` Análise da Saúde Financeira da Empresa Netflix
+![Netflix-Logo.png](Images/Netflix-Logo.png)
+# `Projeto:` Análise da Saúde Financeira da Empresa
 
 ## `Data:` novembro, 2020
 
